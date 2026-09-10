@@ -6,3 +6,4 @@ print(f"eligible : ",["false","true"][age<21 and role=="student"])
 #hello
 #jsjbsjbsxb
 #kdbjcbdsjc
+#djbcjfbch
